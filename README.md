@@ -11,3 +11,5 @@ pip install -r requirements.txt
 python blackjack_counter.py --decks 6
 
 If you want to reset mid-session, just Ctrl-C and restart.
+
+<!-- updated: 2026-10-04 -->
