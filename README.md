@@ -12,4 +12,4 @@ python blackjack_counter.py --decks 6
 
 If you want to reset mid-session, just Ctrl-C and restart.
 
-<!-- updated: 2026-10-09 -->
+<!-- updated: 2026-10-10 -->
